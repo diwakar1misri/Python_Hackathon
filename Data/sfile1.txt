@@ -1,0 +1,644 @@
+Activity Period,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Activity Type Code,Cargo Type Code,Cargo Aircraft Type,Cargo Weight LBS,Cargo Metric TONS
+201801,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Deplaned,Cargo,Passenger,142985,64.858
+201801,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Enplaned,Cargo,Passenger,188674,85.583
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Cargo,Passenger,72891,33.063
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Express,Passenger,6411,2.908
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Mail,Passenger,39024,17.701
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Cargo,Passenger,92528,41.971
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Express,Passenger,23310,10.573
+201801,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Mail,Passenger,840,0.381
+201801,Air China,CA,Air China,CA,International,Asia,Deplaned,Cargo,Passenger,455061,206.416
+201801,Air China,CA,Air China,CA,International,Asia,Enplaned,Cargo,Passenger,406416,184.35
+201801,Air France,AF,Air France,AF,International,Europe,Deplaned,Cargo,Passenger,669696,303.774
+201801,Air France,AF,Air France,AF,International,Europe,Deplaned,Mail,Passenger,23699,10.75
+201801,Air France,AF,Air France,AF,International,Europe,Enplaned,Cargo,Passenger,314343,142.586
+201801,Air France,AF,Air France,AF,International,Europe,Enplaned,Mail,Passenger,25388,11.516
+201801,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Cargo,Passenger,41709,18.919
+201801,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Mail,Passenger,5369,2.435
+201801,Air India Limited,AI,Air India Limited,AI,International,Asia,Enplaned,Cargo,Passenger,22228,10.083
+201801,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Cargo,Passenger,177858,80.676
+201801,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Mail,Passenger,1197,0.543
+201801,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Cargo,Passenger,363247,164.769
+201801,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Mail,Passenger,30831,13.985
+201801,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Deplaned,Cargo,Passenger,10567,4.793
+201801,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Enplaned,Cargo,Passenger,2266,1.028
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,72984,33.106
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Express,Passenger,4049,1.837
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,57051,25.878
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,90385,40.999
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,667,0.303
+201801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,42499,19.278
+201801,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Enplaned,Mail,Passenger,6506,2.951
+201803,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Mail,Passenger,21726,9.855
+201803,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Deplaned,Cargo,Freighter,825189,374.306
+201803,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Cargo,Freighter,1308330,593.458
+201803,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Mail,Freighter,50896,23.086
+201803,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Cargo,Passenger,276599,125.465
+201803,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Mail,Passenger,43770,19.854
+201803,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Enplaned,Cargo,Passenger,147473,66.894
+201803,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Cargo,Passenger,271739,123.261
+201803,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Mail,Passenger,82127,37.253
+201803,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Cargo,Passenger,31924,14.481
+201803,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Mail,Passenger,43849,19.89
+201803,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Deplaned,Cargo,Freighter,17025,7.723
+201803,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Enplaned,Cargo,Freighter,14638,6.64
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Cargo,Passenger,1047130,474.978
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Express,Passenger,10685,4.847
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Mail,Passenger,582780,264.349
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Cargo,Passenger,313146,142.043
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Express,Passenger,3195,1.449
+201803,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Mail,Passenger,23976,10.876
+201803,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Cargo,Passenger,1318334,597.996
+201803,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Express,Passenger,10456,4.743
+201803,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Mail,Passenger,55161,25.021
+201803,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Cargo,Passenger,749220,339.846
+201803,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Express,Passenger,10313,4.678
+201803,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Deplaned,Cargo,Passenger,245892,111.537
+201803,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Enplaned,Cargo,Passenger,168799,76.567
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Cargo,Passenger,6050,2.744
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Mail,Passenger,12769,5.792
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Cargo,Passenger,12164,5.518
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Mail,Passenger,10522,4.773
+201803,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Cargo,Passenger,1150019,521.649
+201803,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Mail,Passenger,9616,4.362
+201803,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Cargo,Passenger,776725,352.322
+201803,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Mail,Passenger,47101,21.365
+201803,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Deplaned,Cargo,Passenger,11797,5.351
+201803,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Enplaned,Cargo,Passenger,1388,0.63
+201803,Total Airport Services, Inc. (Inactive),,Total Airport Services, Inc. (Inactive),,Domestic,US,Deplaned,Cargo,Freighter,117340,53.225
+201803,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Deplaned,Cargo,Passenger,781090,354.302
+201803,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Enplaned,Cargo,Passenger,765151,347.072
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Cargo,Passenger,3261973,1479.631
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Express,Passenger,42978,19.495
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Mail,Passenger,2466464,1118.788
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Cargo,Passenger,4566908,2071.549
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Express,Passenger,97071,44.031
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Mail,Passenger,2059970,934.402
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Cargo,Passenger,8578350,3891.14
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Express,Passenger,122,0.055
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Mail,Passenger,378377,171.632
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Cargo,Passenger,3454903,1567.144
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Express,Passenger,5915,2.683
+201803,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Mail,Passenger,805360,365.311
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Cargo,Passenger,1415381,642.017
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Express,Passenger,7,0.003
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Mail,Passenger,691,0.313
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Cargo,Passenger,581621,263.823
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Express,Passenger,77,0.035
+201803,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Mail,Passenger,49250,22.34
+201803,United Airlines,UA,United Airlines,UA,International,Canada,Deplaned,Cargo,Passenger,642,0.291
+201803,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Cargo,Passenger,10035,4.552
+201803,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Express,Passenger,103,0.047
+201803,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Mail,Passenger,43572,19.764
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Cargo,Passenger,2159730,979.654
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Express,Passenger,164,0.074
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Mail,Passenger,258822,117.402
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Cargo,Passenger,2286919,1037.346
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Express,Passenger,884,0.401
+201803,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Mail,Passenger,133282,60.457
+201803,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Cargo,Passenger,46131,20.925
+201803,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Express,Passenger,240,0.109
+201803,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Cargo,Passenger,7377,3.346
+201803,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Express,Passenger,235,0.107
+201803,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Mail,Passenger,25764,11.687
+201803,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Cargo,Passenger,413551,187.587
+201803,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Express,Passenger,8921,4.047
+201803,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Cargo,Passenger,206529,93.682
+201803,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Express,Passenger,8584,3.894
+201803,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Mail,Passenger,27450,12.451
+201803,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Deplaned,Cargo,Passenger,1032462,468.325
+201803,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Enplaned,Cargo,Passenger,1340049,607.846
+201803,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Cargo,Passenger,124354,56.407
+201803,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Cargo,Passenger,49851,22.612
+201804,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Deplaned,Cargo,Passenger,187394,85.002
+201804,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Enplaned,Cargo,Passenger,120081,54.469
+201804,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Cargo,Passenger,105967,48.067
+201804,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Express,Passenger,12981,5.888
+201804,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Mail,Passenger,36020,16.339
+201804,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Cargo,Passenger,125983,57.146
+201804,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Express,Passenger,64525,29.269
+201804,Air China,CA,Air China,CA,International,Asia,Deplaned,Cargo,Passenger,753384,341.735
+201804,Air China,CA,Air China,CA,International,Asia,Deplaned,Mail,Passenger,210622,95.538
+201804,Air China,CA,Air China,CA,International,Asia,Enplaned,Cargo,Passenger,434766,197.21
+201804,Air France,AF,Air France,AF,International,Europe,Deplaned,Cargo,Passenger,384100,174.228
+201804,Air France,AF,Air France,AF,International,Europe,Deplaned,Mail,Passenger,12183,5.526
+201804,Air France,AF,Air France,AF,International,Europe,Enplaned,Cargo,Passenger,199987,90.714
+201804,Air France,AF,Air France,AF,International,Europe,Enplaned,Mail,Passenger,16224,7.359
+201804,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Cargo,Passenger,620551,281.482
+201804,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Mail,Passenger,23589,10.7
+201804,Air India Limited,AI,Air India Limited,AI,International,Asia,Enplaned,Cargo,Passenger,169024,76.669
+201804,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Cargo,Passenger,308647,140.002
+201804,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Cargo,Passenger,318909,144.657
+201804,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Mail,Passenger,14126,6.408
+201804,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Deplaned,Cargo,Passenger,1808,0.82
+201804,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Enplaned,Cargo,Passenger,1586,0.719
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,152515,69.181
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Express,Passenger,1758,0.797
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,13875,6.294
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,108632,49.275
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,1797,0.815
+201804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,33574,15.229
+201804,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Enplaned,Mail,Passenger,45597,20.683
+201804,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Cargo,Passenger,1089403,494.153
+201804,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Mail,Passenger,300231,136.185
+201804,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Enplaned,Cargo,Passenger,543899,246.713
+201804,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,283028,128.382
+201804,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,392818,178.182
+201804,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,483699,219.406
+201804,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Mail,Passenger,809003,366.964
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Freighter,909441,412.522
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Passenger,546253,247.78
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Freighter,7114,3.227
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Passenger,121182,54.968
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Freighter,1835640,832.646
+201804,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Passenger,194467,88.21
+201804,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Deplaned,Cargo,Freighter,7141053,3239.182
+201804,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Enplaned,Cargo,Freighter,3226040,1463.332
+201804,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,International,Asia,Enplaned,Cargo,Freighter,1397156,633.75
+201804,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Cargo,Passenger,654984,297.101
+201804,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Mail,Passenger,49553,22.477
+201804,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Cargo,Passenger,668989,303.453
+201804,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Mail,Passenger,50945,23.109
+201804,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Deplaned,Cargo,Passenger,1897,0.86
+201804,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Enplaned,Cargo,Passenger,6717,3.047
+201804,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Cargo,Passenger,1495863,678.523
+201804,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Mail,Passenger,605464,274.638
+201804,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Enplaned,Cargo,Passenger,300419,136.27
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Freighter,968425,439.278
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Passenger,348350,158.012
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Freighter,237304,107.641
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Passenger,289448,131.294
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Freighter,1247987,566.087
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Passenger,281759,127.806
+201804,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Mail,Passenger,77000,34.927
+201804,China Eastern,MU,China Eastern,MU,International,Asia,Deplaned,Cargo,Passenger,606637,275.171
+201804,China Eastern,MU,China Eastern,MU,International,Asia,Enplaned,Cargo,Passenger,273834,124.211
+201804,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Cargo,Passenger,476558,216.167
+201804,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Mail,Passenger,221732,100.578
+201804,China Southern,CZ,China Southern,CZ,International,Asia,Enplaned,Cargo,Passenger,254158,115.286
+201804,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,185,0.084
+201804,Compass Airlines,CP,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,272,0.123
+201804,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Express,Passenger,866294,392.951
+201804,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Mail,Passenger,920169,417.389
+201804,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Cargo,Passenger,619398,280.959
+201804,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Mail,Passenger,1465528,664.764
+201804,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Cargo,Passenger,2351005,1066.416
+201804,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Express,Passenger,2524,1.145
+201804,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Mail,Passenger,212228,96.267
+201804,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Cargo,Passenger,1165430,528.639
+201804,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Express,Passenger,21468,9.738
+201801,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Cargo,Passenger,989830,448.987
+201801,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Mail,Passenger,189148,85.798
+201801,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Enplaned,Cargo,Passenger,535502,242.904
+201801,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,241762,109.663
+201801,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,376162,170.627
+201801,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,485928,220.417
+201801,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Mail,Passenger,1052539,477.432
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Freighter,743093,337.067
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Passenger,211427,95.903
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Freighter,8454,3.835
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Passenger,119619,54.259
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Freighter,1893603,858.938
+201801,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Passenger,216209,98.072
+201801,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Deplaned,Cargo,Freighter,5848242,2652.763
+201801,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Enplaned,Cargo,Freighter,3232493,1466.259
+201801,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Cargo,Passenger,758945,344.257
+201801,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Mail,Passenger,90510,41.055
+201801,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Cargo,Passenger,646349,293.184
+201801,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Mail,Passenger,38027,17.249
+201801,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Deplaned,Cargo,Passenger,7521,3.412
+201801,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Enplaned,Cargo,Passenger,6177,2.802
+201801,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Cargo,Passenger,1250908,567.412
+201801,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Mail,Passenger,700664,317.821
+201801,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Enplaned,Cargo,Passenger,483356,219.25
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Freighter,752859,341.497
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Passenger,355867,161.421
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Freighter,265147,120.271
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Passenger,213942,97.044
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Freighter,956941,434.068
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Passenger,208792,94.708
+201801,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Mail,Passenger,32804,14.88
+201801,China Eastern,MU,China Eastern,MU,International,Asia,Deplaned,Cargo,Passenger,534452,242.427
+201801,China Eastern,MU,China Eastern,MU,International,Asia,Enplaned,Cargo,Passenger,233327,105.837
+201801,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Cargo,Passenger,335299,152.092
+201801,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Mail,Passenger,249616,113.226
+201801,China Southern,CZ,China Southern,CZ,International,Asia,Enplaned,Cargo,Passenger,164346,74.547
+201801,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,364,0.165
+201801,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,136,0.062
+201801,Compass Airlines,CP,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,1380,0.626
+201801,Compass Airlines,CP,American Airlines,AA,Domestic,US,Enplaned,Mail,Passenger,2250,1.021
+201801,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Cargo,Passenger,842834,382.31
+201801,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Mail,Passenger,836295,379.343
+201801,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Cargo,Passenger,738618,335.037
+201801,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Mail,Passenger,1328562,602.636
+201801,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Cargo,Passenger,1865452,846.169
+201801,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Express,Passenger,1455,0.66
+201801,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Mail,Passenger,201442,91.374
+201801,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Cargo,Passenger,900231,408.345
+201801,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Express,Passenger,15406,6.988
+201801,Emirates,EK,Emirates,EK,International,Middle East,Deplaned,Cargo,Passenger,407972,185.056
+201801,Emirates,EK,Emirates,EK,International,Middle East,Enplaned,Cargo,Passenger,260905,118.347
+201801,Federal Express,FX,Federal Express,FX,Domestic,US,Deplaned,Cargo,Freighter,2698282,1223.941
+201801,Federal Express,FX,Federal Express,FX,Domestic,US,Enplaned,Cargo,Freighter,2688812,1219.645
+201801,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Deplaned,Cargo,Passenger,265726,120.533
+201801,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Enplaned,Cargo,Passenger,923675,418.979
+201801,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Deplaned,Express,Passenger,1,0
+201801,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,1801,0.817
+201801,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,3985,1.808
+201801,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Cargo,Passenger,827113,375.178
+201801,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Mail,Passenger,217682,98.741
+201801,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Cargo,Passenger,562746,255.262
+201801,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Mail,Passenger,79099,35.879
+201801,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Cargo,Passenger,630748,286.107
+201801,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Mail,Passenger,19046,8.639
+201801,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Cargo,Passenger,501498,227.479
+201801,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Mail,Passenger,21239,9.634
+201801,Kalitta Air,K4,Kalitta Air,K4,Domestic,US,Deplaned,Cargo,Freighter,276083,125.231
+201801,Kalitta Air,K4,Kalitta Air,K4,Domestic,US,Enplaned,Cargo,Freighter,372069,168.77
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Freighter,616886,279.819
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Passenger,1468321,666.03
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Express,Passenger,14047,6.372
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Freighter,62117,28.176
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Passenger,220058,99.818
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Freighter,1592901,722.54
+201801,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Passenger,325293,147.553
+201801,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Cargo,Passenger,845649,383.586
+201801,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Mail,Passenger,50000,22.68
+201801,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Cargo,Passenger,614971,278.951
+201801,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Mail,Passenger,24467,11.098
+201801,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Deplaned,Cargo,Freighter,701747,318.312
+201801,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Cargo,Freighter,866496,393.043
+201801,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Mail,Freighter,42009,19.055
+201801,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Cargo,Passenger,159974,72.564
+201801,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Mail,Passenger,62807,28.489
+201801,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Enplaned,Cargo,Passenger,112481,51.021
+201801,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Cargo,Passenger,186962,84.806
+201801,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Mail,Passenger,65852,29.87
+201801,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Cargo,Passenger,28801,13.064
+201801,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Mail,Passenger,40955,18.577
+201801,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Deplaned,Cargo,Freighter,18402,8.347
+201801,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Enplaned,Cargo,Freighter,16751,7.598
+201801,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Cargo,Passenger,930996,422.3
+201801,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Express,Passenger,9500,4.309
+201801,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Cargo,Passenger,278120,126.155
+201801,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Express,Passenger,3379,1.533
+201801,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Mail,Passenger,52565,23.843
+201801,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Cargo,Passenger,1407017,638.223
+201801,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Express,Passenger,13131,5.956
+201801,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Mail,Passenger,186198,84.459
+201801,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Cargo,Passenger,327936,148.752
+201801,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Express,Passenger,15402,6.986
+201801,SkyWest Airlines,OO,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,30,0.014
+201801,SkyWest Airlines,OO,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,65,0.029
+201801,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Deplaned,Cargo,Passenger,302516,137.221
+201801,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Enplaned,Cargo,Passenger,242041,109.79
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Cargo,Passenger,5086,2.307
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Mail,Passenger,28627,12.985
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Cargo,Passenger,13126,5.954
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Mail,Passenger,26269,11.916
+201801,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Cargo,Passenger,354901,160.983
+201801,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Mail,Passenger,4076,1.849
+201801,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Cargo,Passenger,310286,140.746
+201801,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Mail,Passenger,6563,2.977
+201801,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Deplaned,Cargo,Passenger,14109,6.4
+201801,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Enplaned,Cargo,Passenger,1357,0.616
+201801,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Deplaned,Cargo,Passenger,700163,317.594
+201801,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Enplaned,Cargo,Passenger,438666,198.979
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Cargo,Passenger,2037123,924.039
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Express,Passenger,40771,18.494
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Mail,Passenger,2459722,1115.73
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Cargo,Passenger,3297699,1495.836
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Express,Passenger,83904,38.059
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Mail,Passenger,2567562,1164.646
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Cargo,Passenger,7636035,3463.705
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Express,Passenger,209,0.095
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Mail,Passenger,381185,172.906
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Cargo,Passenger,2144962,972.955
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Express,Passenger,9640,4.373
+201801,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Mail,Passenger,788946,357.866
+201801,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Cargo,Passenger,703510,319.112
+201801,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Mail,Passenger,823,0.373
+201801,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Cargo,Passenger,416088,188.738
+201801,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Express,Passenger,39,0.018
+201801,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Mail,Passenger,44987,20.406
+201801,United Airlines,UA,United Airlines,UA,International,Canada,Deplaned,Cargo,Passenger,427,0.194
+201801,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Cargo,Passenger,13875,6.294
+201801,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Express,Passenger,9,0.004
+201801,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Mail,Passenger,23171,10.51
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Cargo,Passenger,1962722,890.291
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Express,Passenger,26,0.012
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Mail,Passenger,269187,122.103
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Cargo,Passenger,888077,402.832
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Express,Passenger,1709,0.775
+201801,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Mail,Passenger,152897,69.354
+201801,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Cargo,Passenger,47262,21.438
+201801,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Express,Passenger,394,0.179
+201801,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Cargo,Passenger,8435,3.826
+201801,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Express,Passenger,56,0.025
+201801,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Mail,Passenger,23608,10.709
+201801,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Cargo,Passenger,376030,170.567
+201801,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Express,Passenger,11206,5.083
+201801,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Cargo,Passenger,264719,120.077
+201801,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Express,Passenger,5524,2.506
+201801,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Mail,Passenger,23642,10.724
+201801,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Deplaned,Cargo,Passenger,794556,360.411
+201801,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Enplaned,Cargo,Passenger,932221,422.855
+201801,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Cargo,Passenger,157765,71.562
+201801,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Cargo,Passenger,58929,26.73
+201802,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Deplaned,Cargo,Passenger,182225,82.657
+201802,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Enplaned,Cargo,Passenger,147630,66.965
+201802,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Cargo,Passenger,80144,36.353
+201802,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Express,Passenger,6025,2.733
+201802,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Mail,Passenger,31629,14.347
+201802,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Cargo,Passenger,112067,50.834
+201802,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Express,Passenger,25920,11.757
+201802,Air China,CA,Air China,CA,International,Asia,Deplaned,Cargo,Passenger,498655,226.19
+201802,Air China,CA,Air China,CA,International,Asia,Deplaned,Mail,Passenger,160574,72.836
+201802,Air China,CA,Air China,CA,International,Asia,Enplaned,Cargo,Passenger,314732,142.762
+201802,Air France,AF,Air France,AF,International,Europe,Deplaned,Cargo,Passenger,634791,287.941
+201802,Air France,AF,Air France,AF,International,Europe,Deplaned,Mail,Passenger,18976,8.608
+201802,Air France,AF,Air France,AF,International,Europe,Enplaned,Cargo,Passenger,539466,244.702
+201802,Air France,AF,Air France,AF,International,Europe,Enplaned,Mail,Passenger,22597,10.25
+201802,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Cargo,Passenger,380502,172.596
+201802,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Mail,Passenger,2370,1.075
+201802,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Cargo,Passenger,352549,159.916
+201802,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Mail,Passenger,17878,8.109
+201802,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Deplaned,Cargo,Passenger,1731,0.785
+201802,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Enplaned,Cargo,Passenger,2618,1.188
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,97870,44.394
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Express,Passenger,1818,0.825
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,28660,13
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,109316,49.586
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,1319,0.598
+201802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,44139,20.021
+201802,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Enplaned,Cargo,Passenger,275,0.125
+201802,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Enplaned,Mail,Passenger,20600,9.344
+201802,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Cargo,Passenger,918044,416.425
+201802,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Mail,Passenger,253187,114.846
+201802,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Enplaned,Cargo,Passenger,559355,253.723
+201802,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,242834,110.15
+201802,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,307789,139.613
+201802,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,477418,216.557
+201802,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Mail,Passenger,754714,342.338
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Freighter,616223,279.519
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Passenger,201482,91.392
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Freighter,2460,1.116
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Passenger,73501,33.34
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Freighter,1445785,655.808
+201802,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Passenger,225019,102.069
+201802,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Deplaned,Cargo,Freighter,5608869,2544.183
+201802,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Enplaned,Cargo,Freighter,3596410,1631.332
+201802,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Cargo,Passenger,756787,343.279
+201802,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Mail,Passenger,47287,21.449
+201802,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Cargo,Passenger,716960,325.213
+201802,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Mail,Passenger,39954,18.123
+201802,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Deplaned,Cargo,Passenger,7521,3.412
+201802,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Enplaned,Cargo,Passenger,6177,2.802
+201802,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Cargo,Passenger,1077263,488.646
+201802,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Mail,Passenger,450318,204.264
+201802,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Enplaned,Cargo,Passenger,269775,122.37
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Freighter,854430,387.569
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Passenger,361563,164.005
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Freighter,136722,62.017
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Passenger,235080,106.632
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Freighter,920358,417.474
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Passenger,222893,101.104
+201802,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Mail,Passenger,31264,14.181
+201802,China Eastern,MU,China Eastern,MU,International,Asia,Deplaned,Cargo,Passenger,470995,213.643
+201802,China Eastern,MU,China Eastern,MU,International,Asia,Enplaned,Cargo,Passenger,329066,149.264
+201802,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Cargo,Passenger,284112,128.873
+201802,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Mail,Passenger,154354,70.015
+201802,China Southern,CZ,China Southern,CZ,International,Asia,Enplaned,Cargo,Passenger,125081,56.737
+201802,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,70,0.032
+201802,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,386,0.175
+201802,Compass Airlines,CP,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,1319,0.598
+201802,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Cargo,Passenger,887874,402.74
+201802,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Mail,Passenger,762251,345.757
+201802,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Cargo,Passenger,735050,333.419
+201802,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Mail,Passenger,1163830,527.913
+201802,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Cargo,Passenger,1752196,794.796
+201802,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Express,Passenger,639,0.29
+201802,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Mail,Passenger,201983,91.619
+201802,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Cargo,Passenger,953473,432.495
+201802,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Express,Passenger,4815,2.184
+201802,Emirates,EK,Emirates,EK,International,Middle East,Deplaned,Cargo,Passenger,226376,102.684
+201802,Emirates,EK,Emirates,EK,International,Middle East,Enplaned,Cargo,Passenger,485120,220.05
+201802,Federal Express,FX,Federal Express,FX,Domestic,US,Deplaned,Cargo,Freighter,2463132,1117.277
+201802,Federal Express,FX,Federal Express,FX,Domestic,US,Enplaned,Cargo,Freighter,2252841,1021.889
+201802,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Deplaned,Cargo,Passenger,231431,104.977
+201802,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Enplaned,Cargo,Passenger,806664,365.903
+201802,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,3102,1.407
+201802,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,8699,3.946
+201802,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Cargo,Passenger,739165,335.285
+201802,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Mail,Passenger,173772,78.823
+201802,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Cargo,Passenger,557891,253.059
+201802,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Mail,Passenger,62394,28.302
+201802,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Cargo,Passenger,593576,269.246
+201802,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Mail,Passenger,12721,5.77
+201802,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Cargo,Passenger,398926,180.953
+201802,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Mail,Passenger,35521,16.112
+201802,Kalitta Air,K4,Kalitta Air,K4,Domestic,US,Enplaned,Cargo,Freighter,95531,43.333
+201802,Kalitta Air,K4,Kalitta Air,K4,International,Asia,Deplaned,Cargo,Freighter,157613,71.493
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Freighter,435599,197.588
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Passenger,1088975,493.959
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Express,Passenger,8137,3.691
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Freighter,34992,15.872
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Passenger,158827,72.044
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Freighter,1422046,645.04
+201802,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Passenger,539882,244.89
+201802,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Cargo,Passenger,912001,413.684
+201802,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Mail,Passenger,38406,17.421
+201802,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Cargo,Passenger,745049,337.954
+201802,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Mail,Passenger,21742,9.862
+201802,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Deplaned,Cargo,Freighter,586441,266.01
+201802,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Cargo,Freighter,930945,422.277
+201802,Nippon Cargo Airlines,KZ,Nippon Cargo Airlines,KZ,International,Asia,Enplaned,Mail,Freighter,38881,17.636
+201802,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Cargo,Passenger,206027,93.454
+201802,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Deplaned,Mail,Passenger,40551,18.394
+201802,Philippine Airlines,PR,Philippine Airlines,PR,International,Asia,Enplaned,Cargo,Passenger,100892,45.765
+201802,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Cargo,Passenger,59413,26.95
+201802,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Deplaned,Mail,Passenger,200510,90.951
+201802,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Cargo,Passenger,30883,14.009
+201802,Qantas Airways,QF,Qantas Airways,QF,International,Australia / Oceania,Enplaned,Mail,Passenger,35052,15.9
+201802,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Deplaned,Cargo,Freighter,24160,10.959
+201802,Redding Aero Enterprises,bxr,Redding Aero Enterprises,bxr,Domestic,US,Enplaned,Cargo,Freighter,9164,4.157
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Cargo,Passenger,1021236,463.233
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Express,Passenger,10421,4.727
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Deplaned,Mail,Passenger,24,0.011
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Cargo,Passenger,334136,151.564
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Express,Passenger,3410,1.547
+201802,SAS Airlines,SK,SAS Airlines,SK,International,Europe,Enplaned,Mail,Passenger,25551,11.59
+201802,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Cargo,Passenger,1075808,487.987
+201802,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Express,Passenger,8627,3.913
+201802,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Deplaned,Mail,Passenger,52461,23.796
+201802,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Cargo,Passenger,348679,158.161
+201802,Singapore Airlines,SQ,Singapore Airlines,SQ,International,Asia,Enplaned,Express,Passenger,10066,4.566
+201802,SkyWest Airlines,OO,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,434,0.197
+201802,SkyWest Airlines,OO,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,830,0.376
+201802,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Deplaned,Cargo,Passenger,282358,128.078
+201802,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Enplaned,Cargo,Passenger,195381,88.625
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Cargo,Passenger,5234,2.374
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Mail,Passenger,15538,7.048
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Cargo,Passenger,9741,4.419
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Mail,Passenger,8207,3.723
+201802,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Cargo,Passenger,1012001,459.044
+201802,Swiss International,LX,Swiss International,LX,International,Europe,Deplaned,Mail,Passenger,8221,3.729
+201802,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Cargo,Passenger,729837,331.054
+201802,Swiss International,LX,Swiss International,LX,International,Europe,Enplaned,Mail,Passenger,50693,22.994
+201802,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Deplaned,Cargo,Passenger,2928,1.328
+201802,TACA International Airlines, S.A.,TA,TACA International Airlines, S.A.,TA,International,Central America,Enplaned,Cargo,Passenger,691,0.313
+201802,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Deplaned,Cargo,Passenger,763722,346.424
+201802,Turkish Airlines,TK,Turkish Airlines,TK,International,Europe,Enplaned,Cargo,Passenger,497351,225.598
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Cargo,Passenger,2184798,991.024
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Express,Passenger,33008,14.972
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Deplaned,Mail,Passenger,2113773,958.807
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Cargo,Passenger,3316972,1504.578
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Express,Passenger,85557,38.809
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Enplaned,Mail,Passenger,2092280,949.058
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Cargo,Passenger,7022520,3185.415
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Express,Passenger,92,0.042
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Deplaned,Mail,Passenger,320460,145.361
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Cargo,Passenger,2304342,1045.25
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Express,Passenger,3671,1.665
+201802,United Airlines,UA,United Airlines,UA,International,Asia,Enplaned,Mail,Passenger,672832,305.197
+201802,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Cargo,Passenger,1150054,521.664
+201802,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Deplaned,Mail,Passenger,1082,0.491
+201802,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Cargo,Passenger,489231,221.915
+201802,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Express,Passenger,271,0.123
+201802,United Airlines,UA,United Airlines,UA,International,Australia / Oceania,Enplaned,Mail,Passenger,42541,19.297
+201802,United Airlines,UA,United Airlines,UA,International,Canada,Deplaned,Cargo,Passenger,269,0.122
+201802,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Cargo,Passenger,8449,3.832
+201802,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Express,Passenger,389,0.176
+201802,United Airlines,UA,United Airlines,UA,International,Canada,Enplaned,Mail,Passenger,27541,12.493
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Cargo,Passenger,2093297,949.52
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Express,Passenger,90,0.041
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Deplaned,Mail,Passenger,221515,100.479
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Cargo,Passenger,1183618,536.889
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Express,Passenger,898,0.407
+201802,United Airlines,UA,United Airlines,UA,International,Europe,Enplaned,Mail,Passenger,134287,60.913
+201802,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Cargo,Passenger,36442,16.53
+201802,United Airlines,UA,United Airlines,UA,International,Mexico,Deplaned,Express,Passenger,786,0.357
+201802,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Cargo,Passenger,18695,8.48
+201802,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Express,Passenger,61,0.028
+201802,United Airlines,UA,United Airlines,UA,International,Mexico,Enplaned,Mail,Passenger,10525,4.774
+201802,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Cargo,Passenger,398010,180.537
+201802,United Airlines,UA,United Airlines,UA,International,Middle East,Deplaned,Express,Passenger,11451,5.194
+201802,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Cargo,Passenger,191988,87.086
+201802,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Express,Passenger,2650,1.202
+201802,United Airlines,UA,United Airlines,UA,International,Middle East,Enplaned,Mail,Passenger,29491,13.377
+201802,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Deplaned,Cargo,Passenger,1014138,460.013
+201802,Virgin Atlantic,VS,Virgin Atlantic,VS,International,Europe,Enplaned,Cargo,Passenger,1092232,495.436
+201802,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Cargo,Passenger,18642,8.456
+201802,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Cargo,Passenger,13,0.006
+201803,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Deplaned,Cargo,Passenger,238610,108.233
+201803,Aer Lingus, Ltd.,EI,Aer Lingus, Ltd.,EI,International,Europe,Enplaned,Cargo,Passenger,231275,104.906
+201803,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Cargo,Passenger,109424,49.635
+201803,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Express,Passenger,11171,5.067
+201803,Air Canada,AC,Air Canada,AC,International,Canada,Deplaned,Mail,Passenger,27695,12.562
+201803,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Cargo,Passenger,195995,88.903
+201803,Air Canada,AC,Air Canada,AC,International,Canada,Enplaned,Express,Passenger,36127,16.387
+201803,Air China,CA,Air China,CA,International,Asia,Deplaned,Cargo,Passenger,482257,218.752
+201803,Air China,CA,Air China,CA,International,Asia,Deplaned,Mail,Passenger,235936,107.021
+201803,Air China,CA,Air China,CA,International,Asia,Enplaned,Cargo,Passenger,477123,216.423
+201803,Air France,AF,Air France,AF,International,Europe,Deplaned,Cargo,Passenger,824943,374.194
+201803,Air France,AF,Air France,AF,International,Europe,Deplaned,Mail,Passenger,16981,7.703
+201803,Air France,AF,Air France,AF,International,Europe,Enplaned,Cargo,Passenger,554535,251.537
+201803,Air France,AF,Air France,AF,International,Europe,Enplaned,Mail,Passenger,27829,12.623
+201803,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Express,Passenger,356576,161.743
+201803,Air India Limited,AI,Air India Limited,AI,International,Asia,Deplaned,Mail,Passenger,23960,10.868
+201803,Air India Limited,AI,Air India Limited,AI,International,Asia,Enplaned,Express,Passenger,228963,103.858
+201803,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Cargo,Passenger,630906,286.179
+201803,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Deplaned,Mail,Passenger,183,0.083
+201803,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Cargo,Passenger,452986,205.474
+201803,Air New Zealand,NZ,Air New Zealand,NZ,International,Australia / Oceania,Enplaned,Mail,Passenger,26435,11.991
+201803,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Deplaned,Cargo,Passenger,3709,1.682
+201803,Air Pacific Limited dba Fiji Airways,FJ,Air Pacific Limited dba Fiji Airways,FJ,International,Australia / Oceania,Enplaned,Cargo,Passenger,1932,0.876
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,128093,58.103
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Express,Passenger,801,0.363
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,38314,17.379
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,104448,47.378
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,1722,0.781
+201803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,15802,7.168
+201803,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Enplaned,Mail,Passenger,41892,19.002
+201803,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Cargo,Passenger,978268,443.742
+201803,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Deplaned,Mail,Passenger,276956,125.627
+201803,All Nippon Airways,NH,All Nippon Airways,NH,International,Asia,Enplaned,Cargo,Passenger,617276,279.996
+201803,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,248990,112.942
+201803,American Airlines,AA,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,358591,162.657
+201803,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,545450,247.416
+201803,American Airlines,AA,American Airlines,AA,Domestic,US,Enplaned,Mail,Passenger,819503,371.727
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Freighter,805723,365.476
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Cargo,Passenger,372855,169.127
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Freighter,6979,3.166
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Deplaned,Mail,Passenger,91323,41.424
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Freighter,1689700,766.448
+201803,Asiana Airlines,OZ,Asiana Airlines,OZ,International,Asia,Enplaned,Cargo,Passenger,251035,113.869
+201803,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Deplaned,Cargo,Freighter,6524912,2959.7
+201803,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,Domestic,US,Enplaned,Cargo,Freighter,3795518,1721.647
+201803,Atlas Air, Inc,5Y,Atlas Air, Inc,5Y,International,Asia,Enplaned,Cargo,Freighter,186299,84.505
+201803,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Cargo,Passenger,862829,391.379
+201803,British Airways,BA,British Airways,BA,International,Europe,Deplaned,Mail,Passenger,50224,22.782
+201803,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Cargo,Passenger,982329,445.584
+201803,British Airways,BA,British Airways,BA,International,Europe,Enplaned,Mail,Passenger,53805,24.406
+201803,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Deplaned,Cargo,Passenger,2034,0.923
+201803,COPA Airlines, Inc.,CM,COPA Airlines, Inc.,CM,International,Central America,Enplaned,Cargo,Passenger,2442,1.108
+201803,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Cargo,Passenger,1385264,628.356
+201803,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Deplaned,Mail,Passenger,581204,263.634
+201803,Cathay Pacific,CX,Cathay Pacific,CX,International,Asia,Enplaned,Cargo,Passenger,378895,171.867
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Freighter,1302116,590.64
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Cargo,Passenger,381837,173.201
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Freighter,299667,135.929
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Deplaned,Mail,Passenger,222647,100.993
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Freighter,1758275,797.554
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Cargo,Passenger,251514,114.087
+201803,China Airlines,CI,China Airlines,CI,International,Asia,Enplaned,Mail,Passenger,39822,18.063
+201803,China Eastern,MU,China Eastern,MU,International,Asia,Deplaned,Cargo,Passenger,549837,249.406
+201803,China Eastern,MU,China Eastern,MU,International,Asia,Enplaned,Cargo,Passenger,297190,134.805
+201803,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Cargo,Passenger,418486,189.825
+201803,China Southern,CZ,China Southern,CZ,International,Asia,Deplaned,Mail,Passenger,234014,106.149
+201803,China Southern,CZ,China Southern,CZ,International,Asia,Enplaned,Cargo,Passenger,263364,119.462
+201803,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Cargo,Passenger,164,0.074
+201803,Compass Airlines,CP,American Airlines,AA,Domestic,US,Deplaned,Mail,Passenger,610,0.277
+201803,Compass Airlines,CP,American Airlines,AA,Domestic,US,Enplaned,Cargo,Passenger,1321,0.599
+201803,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Cargo,Passenger,803044,364.261
+201803,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Deplaned,Mail,Passenger,918280,416.532
+201803,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Cargo,Passenger,584999,265.356
+201803,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Enplaned,Mail,Passenger,1246221,565.286
+201803,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Cargo,Passenger,2194615,995.477
+201803,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Express,Passenger,2266,1.028
+201803,EVA Airways,BR,EVA Airways,BR,International,Asia,Deplaned,Mail,Passenger,191237,86.745
+201803,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Cargo,Passenger,1044618,473.839
+201803,EVA Airways,BR,EVA Airways,BR,International,Asia,Enplaned,Express,Passenger,6189,2.807
+201803,Emirates,EK,Emirates,EK,International,Middle East,Deplaned,Cargo,Passenger,344421,156.229
+201803,Emirates,EK,Emirates,EK,International,Middle East,Enplaned,Cargo,Passenger,705335,319.94
+201803,Federal Express,FX,Federal Express,FX,Domestic,US,Deplaned,Cargo,Freighter,2649723,1201.914
+201803,Federal Express,FX,Federal Express,FX,Domestic,US,Enplaned,Cargo,Freighter,2869803,1301.743
+201803,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Deplaned,Cargo,Passenger,357741,162.271
+201803,Hawaiian Airlines,HA,Hawaiian Airlines,HA,Domestic,US,Enplaned,Cargo,Passenger,854184,387.458
+201803,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Deplaned,Cargo,Passenger,2881,1.307
+201803,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Enplaned,Cargo,Passenger,798,0.362
+201803,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Deplaned,Cargo,Passenger,23,0.01
+201803,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Deplaned,Mail,Passenger,147,0.067
+201803,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Enplaned,Cargo,Passenger,2092,0.949
+201803,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Enplaned,Express,Passenger,21,0.01
+201803,Horizon Air,QX,Alaska Airlines,AS,Domestic,US,Enplaned,Mail,Passenger,5417,2.457
+201803,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Cargo,Passenger,903733,409.933
+201803,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Deplaned,Mail,Passenger,220800,100.155
+201803,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Cargo,Passenger,605686,274.739
+201803,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Enplaned,Mail,Passenger,70287,31.882
+201803,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Cargo,Passenger,705203,319.88
+201803,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Deplaned,Mail,Passenger,25104,11.387
+201803,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Cargo,Passenger,554993,251.745
+201803,KLM Royal Dutch Airlines,KL,KLM Royal Dutch Airlines,KL,International,Europe,Enplaned,Mail,Passenger,23325,10.58
+201803,Kalitta Air,K4,Kalitta Air,K4,Domestic,US,Enplaned,Cargo,Freighter,93192,42.272
+201803,Kalitta Air,K4,Kalitta Air,K4,International,Asia,Deplaned,Cargo,Freighter,279782,126.909
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Freighter,650167,294.916
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Cargo,Passenger,1309440,593.962
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Express,Passenger,12771,5.793
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Freighter,77246,35.039
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Deplaned,Mail,Passenger,195330,88.602
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Freighter,2029031,920.368
+201803,Korean Air Lines,KE,Korean Air Lines,KE,International,Asia,Enplaned,Cargo,Passenger,496538,225.23
+201803,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Cargo,Passenger,733561,332.743
+201803,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Deplaned,Mail,Passenger,54537,24.738
+201803,Lufthansa German Airlines,LH,Lufthansa German Airlines,LH,International,Europe,Enplaned,Cargo,Passenger,891157,404.229
