@@ -1,7 +1,7 @@
-id      first_name      last_name      marks      place      gender
-1      Diwakar      Misri      99      DDN      M
-2      Mansi      Sethi      98      DDN      F
-2      Mansi      Sethi      98      DDN      F
-3      Satyam      Jindal      88      DEL      M
-4      Abhinav      Dubey      57      JKD      M
-5      Viren      Tiwari      100      MHG      M
+id,first_name,last_name,marks,place,gender
+1,Diwakar,Misri,99,DDN,M
+2,Mansi,Sethi,98,DDN,F
+2,Mansi,Sethi,98,DDN,F
+3,Satyam,Jindal,88,DEL,M
+4,Abhinav,Dubey,57,JKD,M
+5,Viren,Tiwari,100,MHG,M
